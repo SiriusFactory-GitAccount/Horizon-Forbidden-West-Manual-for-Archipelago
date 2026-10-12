@@ -1,0 +1,141 @@
+
+# Players Guide
+
+This is how to setup and use this apworld
+
+## Setup
+
+- Download the apworld and install it to archipelago
+- Download the manual Client
+- Recommended: Install a cheat mod (<http://nexusmods.com/horizonforbiddenwest/mods/50>)
+- Start a new game on hard
+
+## What are Location Checks?
+
+- Finishing Main/Side/Errand Quests
+- Finishing Interludes
+- Overriding Tallnecks
+- Finishing a hunting grounds trial
+- Completing a Cauldron
+- Clearing a Rebel Camp/Rebel Outpost
+- Finishing a Gauntlet Run
+- Finishing a Salvage Contract
+- Completing a Relic Ruin
+- Completing a Vista Point
+- Collecting a Black Box
+- Collecting a Survey Drone Module
+- Collecting a War Totem
+- Collecting a Signal Lens
+- Burning Shores: Clearing a Devotee Camp
+- Burning Shores: Collecting Pangea Figurines and completing the quiz
+- Burning Shores: Collecting Delvers Trinkets and unearthing their trove
+- Burning Shores: Completing an Aerial Capture
+
+## What are receivable Items?
+
+- Unlocking a Main/Side/Errand Quest
+- Unlocking the Activities "Opening the Arena" and "First Forge"
+- Free Upgrades for Items, free coils etc.
+
+## What do the options do?
+
+### Disable Burning Shores
+
+- The victory condition is now completing Singularity and receiving the Item "Epilogue_Unlocked". Having these allows you to press the "GOAL: Epilogue_Completed"-Button on Manual
+- If Weapon- and Outfitsanity is enabled, Weapons and Outfits from the Burning Shores now no longer can be received
+- If Arenasanity is enabled, the Burning Shores Arena is disabled
+- Location Checks placed in the Burning Shores (like Aerial Captures) are disabled
+
+### I don't have a cheat mod
+
+- Removes all Helpers (like free Items)
+- Disables Weapon- and Outfitsanity, if enabled
+
+### Weapon- and Outfitsanity
+
+- Instead of buying Weapons and Outfits, you now buy Location Checks
+- Acquiring a Weapon or Outfit in any way does not allow you to use that Item. Instead, you send a location check
+- You can now receive Weapons. Receiving a weapon gives you the right to use that weapon. If you haven't bought that weapon yet, you may cheat it in. Receiving a weapon does not allow you to send the location check for acquiring that weapon. Same goes for Outfits.
+- Logic will not expect you to do unreasonable things. For Example, it will not expect you to defeat a Fireclaw without a frost weapon.
+- I would recommend only cheating in the items that you actually want to use and cheat out the items that you won't use anymore, because Items in your inventory can't be bought in shops. This makes it easier to keep track of which location checks you already bought, as only those and the items you cheated yourself (the items you use at the moment) will be greyed out in shops.
+- Buying a weapon at the Arena does not send a location check, and neither does the Toy Bow in the Burning Shores
+- This Setting also shuffles Gold Ingots into the pool of Filler Items. This helps you with the shards demand of the many weapons and outfits that exist. With the current amount of shards, you will always have enough shards to buy weapons. But you can always give yourself less ingots than the item says.
+- When killing Regalla during "Wings of the Ten", you receive either "Regallas Wrath" or "Tenakth High Marshal", depending on your choice. Since that makes one of the item missable, only one location check for both exists: "Regallas_Equipment_Aquired"
+- The Hunter Bow and Frost Blastsling are unlocked from the start and do not send a location check
+- The Category "The Dry Yearn" has the wandering Merchant at the base in it, so some Items in that category might not be obtainable even though you have access to the dry yearn. Also, some items disappear from the inventory of the merchant, but no item will become inaccessible because of that
+
+### Machinesanity
+
+- You are now only allowed to damage a certain machine if you have the respective Item. For example, you may only damage Behemoths if you have the item "Damage_Behemoth"
+- Killing a machine for the first time sends a location check
+- The Defense Drone in BS does not count as a Machine
+- The Horus and Specter Prime do count as a Machine
+- If you are unsure if a machine needs an unlock, check the category for the First Kills. Machines that aren't in that don't need an item to be unlocked
+- The Specters in "Cradle of Echoes" may be killed without their unlock item. Killing them there also sends the location check.
+- You are allowed to damage Burrowers, Scroungers and Slitherfangs from the start
+- In some quests (like all rebel outposts/camps and "The Roots that Bind"), you may expected to complete them by sneaking past the machines and not damaging them.
+- Grimhorns and Plowhorns are not the same machine. They both require their own, individual Damage item and both send out a location check with the first kill
+- Overriding a machine requires the Unlock
+
+### Machine Strike Sanity/Increase Machine Strike Accessibility
+
+- Completing all Strike boards of one Strike player sends a location check
+- If Accessibility is increased, you are only expected to play Strike after unlocking the arena, since you can buy all Strike pieces at the arena. Otherwise, you are expected to play a Strike player as soon as you can access them on the map
+
+### Sunken Caverns Sanity
+
+- Completing a sunken cavern now sends a location check
+- For playing with Machinesanity, you are expected to be able to kill the machines in the cavern
+- Sunken Caverns are only accessible in logic after acquiring the diving mask
+
+### Arenasanity
+
+- Completing an arena challenge now sends a location check
+- You are not expected to skip the arena challenge "Apex Waterwings" in the Burning Shores
+- The Equipment you're given during certain Arena challenges may be used freely, even if it hasn't been unlocked yet.
+
+### Melee Pit Sanity
+
+- Completing a Melee Pit Challenge now sends a location check
+- Only the Challenges send a check, not the tutorial or free play
+- The Enduring also sends a location check
+
+### Cauldronsanity
+
+- Before doing a cauldron, you need to receive its Unlock item
+
+### Enable Jokers
+
+- This setting mixes 10 Jokers as filler items
+- A Joker allows you to check off a Location in the Manual Client you could do right now, but don't want to do
+
+### Disable Helpers
+
+- This setting removes the following items from the filler items:
+  - Free Pouch Upgrades
+  - Free Weapon/Outfit Upgrades
+  - Free Machine Components
+  - Free Coils
+  - Free Restock
+
+### Remove Gold Ingots
+
+- When playing with Weapon- and Outfitsanity, this removes gold ingots from the filler pool
+
+## Rules and Recommendations
+
+- Main Quests, Side Quests, Errands, "Opening the Arena" and "First Forge" may only be progressed after receiving their respective Item. "Reach for the Stars", "The Point of the Lance", "The Eye of the Earth", "Cradle of Echoes" and "All that remains" are except. For "Singularity", you are not allowed to call your companions without the Quest item, but you may do everything in your base without the item
+- "Epilogue" may only be completed after receiving the unlock item for it
+- This is intended to be played on Hard, but if you want to use a different difficulty, I'm not going to stop you
+
+## Rule Exceptions and Notes
+
+- Accepting Quests before unlocking them is fine
+- You may go to Chainscrape and upgrade your bow without having "To the Brink" unlocked
+- Killing the Bristleback at the Relic Ruin in the Daunt does not progress the main quest. Therefore, you may do this before unlocking "To the Brink"
+- Supply Drop: You may fight off the machine attacking the NPC.
+- "To the Burning Shores" is in logic supposed to be completed in one go, with no pause for shopping and collecting collectibles etc. This is not the case for Faros Tomb. You may be expected to stop after taking the boat and do some collectibles in San Francisco
+- Walking around is allowed and does not count as quest progression. For example, you may go to the Tower of Tears without having "The Sea of Sand", but you can't enter it
+- You can take your time with the location sends and item gives. You don't have to give yourself an item or unlock a location check mid-combat or mid-quest
+- You may be expected to grab the diving mask during "The Sea of Sands" and go do something else before finishing the quest.
+- After you complete "Eye of the earth", a lot of things unlock at the same time. Completing everything will take quite some time, so I'd recommend doing a playthrough of this apworld before playing it in an async.
