@@ -389,3 +389,16 @@ My first tests revealed many flaws in my logic. You sometimes are expected to do
 31. Moved "Relic_Ruin_The_Stillsands_Completed" to "Post_Eye_of_the_Earth"
 32. Moved "Black_Box_Jagged_Deep_Collected" to "Post_Eye_of_the_Earth" and added the diving mask as a condition
 33. Moved the legendary Ropecaster Requirement to the burning shores arena
+
+### 1.0.7
+1. Added Jokers
+2. Added an option to disable the DLC Burning Shores
+3. Added an option to enable jokers
+4. Added an option to enable the arena, arena is disabled by default now
+5. Added an option to enable melee pits, melee pits are disabled by default now
+6. The Games against Varl and Erend now only have useful/filler items
+7. Unearthing the Delvers Trove and completing the Pangea Figurines Quiz now also give location checks
+8. Added Coils into the pool of filler items
+9. Added an option to disable helpers (such as free upgrades)
+10. Added an option to remove the shards that weaponsanity adds
+11. Added an option you can check if you don't have a cheat mod, which disables weaponsanity as well as free items
