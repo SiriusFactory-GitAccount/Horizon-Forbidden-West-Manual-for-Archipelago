@@ -313,6 +313,15 @@ These Stages classify the Quest Levels for Weapons. This means the following:
       2. One option should disable all helpers (free upgrades and machine components, free restocks and free coils)
       3. Another option should disable the free shards you get when playing with Weaponsanity
    8. I also want this to be playable without a cheat mod. If you don't have one, just check this box and it should work fine. I realized that only weaponsanity and the free items and so on actually require a cheat mod, so you can play it without too.
+10. V 1.0.8 adds another option for Regions.
+   1. These geographical regions limit the player from accessing certain regions without a special item
+   2. This helps with the big number of location checks available after "The Embassy" and especially "Eye of the Earth", since now, not all locations are available right away
+   3. Some things to note down:
+      1. The Subfunctions force you to visit The Raintrace (DEMETER), The Stillsands (POSEIDON) and Sheerside Mountains (AETHER)
+      2. GEMINI forces you to visit The Shining Wastes (because the Cauldron is located there)
+      3. While "The Dying Lands" is completable without access to the dry yearn, "Eye of the Earth" is not! If you don't have "The Dry Yearn" unlocked, you will need to go back and take the other exit
+      4. The Memorial Grove and The Arena are located in Runners Wild AND The Raintrace. Since Runners Wild is required for completing Eye of the Earth, I will not add a region requirement for those
+      5. I will go with the least effort possible, meaning that if the logic region already has the geographical region requirement, I will not put it in the region requirements
 
 ## Version History and Patch Notes
 
