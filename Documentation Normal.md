@@ -318,7 +318,7 @@ These Stages classify the Quest Levels for Weapons. This means the following:
    2. This helps with the big number of location checks available after "The Embassy" and especially "Eye of the Earth", since now, not all locations are available right away
    3. Some things to note down:
       1. The Subfunctions force you to visit The Raintrace (DEMETER), The Stillsands (POSEIDON) and Sheerside Mountains (AETHER)
-      2. GEMINI forces you to visit The Shining Wastes (because the Cauldron is located there)
+      2. GEMINI forces you to visit The Shining Wastes (because the Cauldron is located there). This means that you need access to all geographical regions to complete the main quests
       3. While "The Dying Lands" is completable without access to the dry yearn, "Eye of the Earth" is not! If you don't have "The Dry Yearn" unlocked, you will need to go back and take the other exit
       4. The Memorial Grove and The Arena are located in Runners Wild AND The Raintrace. Since Runners Wild is required for completing Eye of the Earth, I will not add a region requirement for those
       5. I will go with the least effort possible, meaning that if the logic region already has the geographical region requirement, I will not put it in the region requirements
