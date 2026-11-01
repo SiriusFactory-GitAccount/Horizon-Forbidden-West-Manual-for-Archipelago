@@ -322,6 +322,7 @@ These Stages classify the Quest Levels for Weapons. This means the following:
       3. While "The Dying Lands" is completable without access to the dry yearn, "Eye of the Earth" is not! If you don't have "The Dry Yearn" unlocked, you will need to go back and take the other exit
       4. The Memorial Grove and The Arena are located in Runners Wild AND The Raintrace. Since Runners Wild is required for completing Eye of the Earth, I will not add a region requirement for those
       5. I will go with the least effort possible, meaning that if the logic region already has the geographical region requirement, I will not put it in the region requirements
+   4. Also added Activitysanity, which locks activities behind unlock items, hopefully also reducing sphere sizes
 
 ## Version History and Patch Notes
 
@@ -411,3 +412,9 @@ My first tests revealed many flaws in my logic. You sometimes are expected to do
 9. Added an option to disable helpers (such as free upgrades)
 10. Added an option to remove the shards that weaponsanity adds
 11. Added an option you can check if you don't have a cheat mod, which disables weaponsanity as well as free items
+
+### 1.0.8
+1. Added Regionsanity
+2. Added Acitivtysanity
+3. Small bugfixes (don't remember all of them, but I put "Rollerback_First_Kill" in "Post_Eye_of_the_Earth" from "Post_Embassy" and put the sheerside HG into "Post_The_broken_Sky" from "Post_Eye_of_the_Earth")
+4. Small balance changes (like putting some large machine first kills behind Faros Tomb)
