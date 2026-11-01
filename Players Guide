@@ -51,6 +51,12 @@ This is how to setup and use this apworld
 - Removes all Helpers (like free Items)
 - Disables Weapon- and Outfitsanity, if enabled
 
+### Regionsanity
+- You now may not access a certain geographical region until you have unlocked it
+
+### Activitysanity
+- You now may not do a certain type of activity until you have unlocked it
+
 ### Weapon- and Outfitsanity
 
 - Instead of buying Weapons and Outfits, you now buy Location Checks
